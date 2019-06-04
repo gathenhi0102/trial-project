@@ -1,0 +1,26 @@
+{
+    "1": {
+        "id": 1,
+        "is_valid": 1,
+        "is_super_admin": 0,
+        "username": "user02",
+        "password": "user02",
+        "nick_name": "Ngọc Huấn"
+    },
+    "2": {
+        "id": 2,
+        "is_valid": 1,
+        "is_super_admin": 0,
+        "username": "user02",
+        "password": "user02",
+        "nick_name": "Ngọc Huấn"
+    },
+    "3": {
+        "id": 3,
+        "is_valid": 1,
+        "is_super_admin": 0,
+        "username": "user03",
+        "password": "user03",
+        "nick_name": "Bình lưu quốc"
+    }
+}
